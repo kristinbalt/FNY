@@ -6,8 +6,9 @@
 #                                                                                                   #
 # Creates datasets: rawFNY; FNY                                                                     #
 #                                                                                                   #
-# Original Variables: week_of   state	 zip	 participants	 users	 household	 ili	 gastro	 other  #	 
-#         no_symptoms fever	cough	sore_throat	chills	fatigue	nausea	diarrhea	bodyache	headache  #
+# Original Variables: week_of   state  zip   participants  users   household   ili                  # 
+#         gastro other  no_symptoms fever cough sore_throat chills  fatigue nausea                  #
+#         diarrhea  bodyache  headache                                                              #
 #                                                                                                   #
 #####################################################################################################
 #####################################################################################################
@@ -27,6 +28,7 @@
 # Pre-requisite: FluNearYou data from datasets dashboard                                            #
 #                                                                                                   #
 #####################################################################################################
+
 
 #################################################
 #     Step 1: Install and Import Libraries      #
